@@ -1,3 +1,5 @@
+import javax.swing.tree.TreeNode;
+
 /**
  * Created by 51046 on 2018/7/13.
  */
@@ -8,3 +10,12 @@ public class hello {
 
     }
 }
+class Solution {
+    public:
+    int TreeDepth(TreeNode* pRoot)
+    {
+        if(pRoot==nullptr){
+
+        }
+    }
+};
