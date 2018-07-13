@@ -1,1 +1,10 @@
-liujiafna
+liujiafan
+class Solution {
+public:
+    int TreeDepth(TreeNode* pRoot)
+    {
+       if(pRoot==nullptr){
+
+       }
+    }
+};
